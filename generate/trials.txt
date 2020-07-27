@@ -1,0 +1,13 @@
+sentiment-target-context-aspect
+aspect_strict_Acc = 0.5891431612559872
+aspect_Macro_F1 = 0.631311686837734
+aspect_Macro_AUC = 0.935075666863
+sentiment_Acc = 0.774671052632
+sentiment_Macro_AUC = 0.826044542043
+
+
+sentiment-aspect-target-context
+
+
+
+4 tasks * 5 context lengths * 2 patterns of pseudo sentence * 2 max-seq-length * 2 datasets = 160 tasks of 6 epochs each
